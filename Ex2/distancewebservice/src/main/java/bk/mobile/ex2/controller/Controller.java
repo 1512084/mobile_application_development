@@ -14,7 +14,7 @@ public class Controller {
 	@RequestMapping("/")
 	@ResponseBody
 	public String getAllTopic() {
-		return "De tinh khoang cach giua (100.1,102.2) voi (103.1,102.2) vui long nhap : localhost:8080/100.1-102.2TO103.1-102.2";
+		return "De tinh khoang cach giua (10.879080,106.807079) voi (10.772988,106.657800) vui long nhap : localhost:8080/10.879080-106.807079TO10.772988-106.657800";
 	}
 	
 	
